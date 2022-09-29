@@ -1,4 +1,4 @@
 The first line
 The second line
-The not modified third line
+The modified third line
 The fourth line
